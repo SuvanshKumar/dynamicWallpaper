@@ -1,0 +1,10 @@
+{
+    "allThemes": [
+        {
+            "name": "Mojave Dynamic",
+            "config": "config/mojaveDynamic.json",
+            "pictures": "resources/pictures/mojave_dynamic"
+        }
+    ],
+    "currentTheme": "Mojave Dynamic"
+}

@@ -1,0 +1,68 @@
+{
+    "backgrounds": [
+        {
+            "time": "0000:0300",
+            "file": "mojave_dynamic_15.jpeg"
+        },
+        {
+            "time": "0300:0500",
+            "file": "mojave_dynamic_16.jpeg"
+        },
+        {
+            "time": "0500:0600",
+            "file": "mojave_dynamic_1.jpeg"
+        },
+        {
+            "time": "0600:0700",
+            "file": "mojave_dynamic_2.jpeg"
+        },
+        {
+            "time": "0700:0800",
+            "file": "mojave_dynamic_3.jpeg"
+        },
+        {
+            "time": "0800:0900",
+            "file": "mojave_dynamic_4.jpeg"
+        },
+        {
+            "time": "0900:1100",
+            "file": "mojave_dynamic_5.jpeg"
+        },
+        {
+            "time": "1100:1300",
+            "file": "mojave_dynamic_6.jpeg"
+        },
+        {
+            "time": "1300:1500",
+            "file": "mojave_dynamic_7.jpeg"
+        },
+        {
+            "time": "1500:1600",
+            "file": "mojave_dynamic_8.jpeg"
+        },
+        {
+            "time": "1600:1700",
+            "file": "mojave_dynamic_9.jpeg"
+        },
+        {
+            "time": "1700:1800",
+            "file": "mojave_dynamic_10.jpeg"
+        },
+        {
+            "time": "1800:1900",
+            "file": "mojave_dynamic_11.jpeg"
+        },
+        {
+            "time": "1900:2000",
+            "file": "mojave_dynamic_12.jpeg"
+        },
+        {
+            "time": "2000:2100",
+            "file": "mojave_dynamic_13.jpeg"
+        },
+        {
+            "time": "2100:0000",
+            "file": "mojave_dynamic_14.jpeg"
+        }   
+    ]
+}
