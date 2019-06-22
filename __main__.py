@@ -2,7 +2,10 @@ import os
 import json
 import logging
 
-import executor
+from src import executor
+
+logging_format = '%(levelname)s %(filename)s %(funcName)s - %(message)s'
+logging.basicConfig(level = logging.DEBUG, filename = '/media/suvansh/E/Projects/dynamicWallpaper/exec.log', format = logging_format)
 
 _root_path = os.path.dirname(os.path.realpath(__file__))
 
